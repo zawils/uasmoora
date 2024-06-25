@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uasmoora/static/css/main.80734ae2.css",
+    "main.js": "/uasmoora/static/js/main.a802369a.js",
+    "static/js/453.d876e37f.chunk.js": "/uasmoora/static/js/453.d876e37f.chunk.js",
+    "index.html": "/uasmoora/index.html",
+    "main.80734ae2.css.map": "/uasmoora/static/css/main.80734ae2.css.map",
+    "main.a802369a.js.map": "/uasmoora/static/js/main.a802369a.js.map",
+    "453.d876e37f.chunk.js.map": "/uasmoora/static/js/453.d876e37f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80734ae2.css",
+    "static/js/main.a802369a.js"
+  ]
+}
